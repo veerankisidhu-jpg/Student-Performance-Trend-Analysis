@@ -1,4 +1,7 @@
 # Student-Performance-Trend-Analysis 
+ Name:V.Siva Sambhavi
+ Roll number:N26V01A0389  
+ section:05 
  Student Performance Trend Analysis
 1. Project Description
 This Python project analyzes student marks across multiple examinations. It compares assessment scores, calculates improvements and declines, identifies consistently weak subjects, and classifies students using defined criteria.
